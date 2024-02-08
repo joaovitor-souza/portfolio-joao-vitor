@@ -8,7 +8,7 @@
 </template>
 
 <script lang="ts">
-import Footer from '../components/Footer.vue'
+import Footer from './components/Footer.vue'
 import { defineComponent } from 'vue'
 
 export default defineComponent({
