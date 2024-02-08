@@ -10,10 +10,7 @@
       </v-row>
       <v-row>
         <v-col cols="12">
-          <v-card class="card mx-auto my-8" title="Meu portfolio" prepend-icon="mdi-card-account-details"
-                  append-icon="mdi-open-in-new"
-                  href="https://github.com/vuetifyjs/vuetify/" target="_blank" elevation="10" rel="noopener"
-                  max-width="700">
+          <v-card class="card mx-auto my-8" title="Meu portfolio" prepend-icon="mdi-card-account-details" append-icon="mdi-open-in-new" href="https://portfolio-joao-vitor-git-main-joaovitor-souza.vercel.app/" target="_blank" elevation="10" rel="noopener" max-width="700">
             <div class="img-container">
               <v-img class="img-card align-end text-white" src="../assets/imgs/img-portfolio.png" cover>
               </v-img>
@@ -22,10 +19,7 @@
           </v-card>
         </v-col>
         <v-col cols="12">
-          <v-card class="card mx-auto my-8" title="Busca pelo usuário" prepend-icon="mdi-magnify"
-                  append-icon="mdi-open-in-new"
-                  href="https://joaovitor-souza.github.io/javascript-avancado-api-github/" target="_blank" elevation="10"
-                  rel="noopener" max-width="700">
+          <v-card class="card mx-auto my-8" title="Busca pelo usuário" prepend-icon="mdi-magnify" append-icon="mdi-open-in-new" href="https://joaovitor-souza.github.io/javascript-avancado-api-github/" target="_blank" elevation="10" rel="noopener" max-width="700">
             <div class="img-container">
               <v-img class="img-card align-end text-white" src="../assets/imgs/buscar-usario.png" cover>
               </v-img>
@@ -34,10 +28,7 @@
           </v-card>
         </v-col>
         <v-col cols="12">
-          <v-card class="card mx-auto my-8" title="Cookin' up" prepend-icon="mdi-food-outline"
-                  append-icon="mdi-open-in-new"
-                  href="https://cookin-up-alpha.vercel.app/" target="_blank" elevation="10" rel="noopener"
-                  max-width="700">
+          <v-card class="card mx-auto my-8" title="Cookin' up" prepend-icon="mdi-food-outline" append-icon="mdi-open-in-new" href="https://cookin-up-alpha.vercel.app/" target="_blank" elevation="10" rel="noopener" max-width="700">
             <div class="img-container">
               <v-img class="img-card align-end text-white" src="../assets/imgs/cookin-up.png" cover>
               </v-img>
@@ -46,10 +37,7 @@
           </v-card>
         </v-col>
         <v-col cols="12">
-          <v-card class="card mx-auto my-8" title="Carrossel de imagens Pokemon" prepend-icon="mdi-pokeball"
-                  append-icon="mdi-open-in-new"
-                  href="https://joaovitor-souza.github.io/projeto-pokemon-slider/" target="_blank" elevation="10"
-                  rel="noopener" max-width="700">
+          <v-card class="card mx-auto my-8" title="Carrossel de imagens Pokemon" prepend-icon="mdi-pokeball" append-icon="mdi-open-in-new" href="https://joaovitor-souza.github.io/projeto-pokemon-slider/" target="_blank" elevation="10" rel="noopener" max-width="700">
             <div class="img-container">
               <v-img class="img-card align-end text-white" src="../assets/imgs/img-projeto-pokemon.png" cover>
               </v-img>
@@ -58,10 +46,7 @@
           </v-card>
         </v-col>
         <v-col cols="12">
-          <v-card class="card mx-auto my-8" title="Lading Page" prepend-icon="mdi-page-layout-body"
-                  append-icon="mdi-open-in-new"
-                  href="https://joaovitor-souza.github.io/lading-page-agencia-xyz/" target="_blank" elevation="10"
-                  rel="noopener" max-width="700">
+          <v-card class="card mx-auto my-8" title="Lading Page" prepend-icon="mdi-page-layout-body" append-icon="mdi-open-in-new" href="https://joaovitor-souza.github.io/lading-page-agencia-xyz/" target="_blank" elevation="10" rel="noopener" max-width="700">
             <div class="img-container">
               <v-img class="img-card align-end text-white" src="../assets/imgs/lading-page.png" cover>
               </v-img>
@@ -70,10 +55,7 @@
           </v-card>
         </v-col>
         <v-col cols="12">
-          <v-card class="card mx-auto my-8" title="The Last Of US" prepend-icon="mdi-controller"
-                  append-icon="mdi-open-in-new"
-                  href="https://joaovitor-souza.github.io/projeto-the-last-of-us/" target="_blank" elevation="10"
-                  rel="noopener" max-width="700">
+          <v-card class="card mx-auto my-8" title="The Last Of US" prepend-icon="mdi-controller" append-icon="mdi-open-in-new" href="https://joaovitor-souza.github.io/projeto-the-last-of-us/" target="_blank" elevation="10" rel="noopener" max-width="700">
             <div class="img-container">
               <v-img class="img-card align-end text-white" src="../assets/imgs/the-last-of-us.png" cover>
               </v-img>
