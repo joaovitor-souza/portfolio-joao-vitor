@@ -2,7 +2,7 @@ import Contact from "@/views/Contact.vue";
 import Home from "@/views/Home.vue";
 import Projects from "@/views/Projects.vue";
 import Skills from "@/views/Skills.vue";
-import { RouteRecordRaw, createRouter, createWebHashHistory } from "vue-router";
+import { RouteRecordRaw, createRouter, createWebHistory } from "vue-router";
 
 
 const routes:RouteRecordRaw[] = [
@@ -30,7 +30,7 @@ const routes:RouteRecordRaw[] = [
 
 
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHistory(),
   routes: routes
 })
 
