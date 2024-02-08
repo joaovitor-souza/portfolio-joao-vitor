@@ -36,7 +36,7 @@
               <p>Atualmente sou um Desenvolvedor Frontend Júnior, tenho experiência com as tecnologias HTML, CSS,
                 Javascript e alguns frameworks como Bootstrap, Vue.js e React. Estou disposto a adquirir ainda mais
                 experiência e crescer na carreira como Desenvolvedor. </p>
-                <a href="" target="_blank" class="d-block mt-2 color-primary">Veja meu currículo</a>
+                <a href="src/assets/JoaoVitorFernandesdeSouza_DevFrontEndJunior.pdf" target="_blank" class="d-block mt-2 color-primary">Veja meu currículo</a>
             </div>
           </div>
         </v-col>
@@ -48,7 +48,6 @@
 <script lang="ts">
 import { defineComponent } from 'vue';
 import Header from '../components/Header.vue';
-import Footer from '../components/Footer.vue'
 import LinksSocialMedias from 'vue'
 
 export default defineComponent({
@@ -64,11 +63,6 @@ export default defineComponent({
 .main {
   min-height: 100vh;
 }
-.title h1 {
-  font-size: 28px;
-  z-index: 2;
-}
-
 .avatar {
   width: 200px;
   height: 200px;
@@ -143,9 +137,5 @@ export default defineComponent({
   .hr {
     max-width: 100px;
   }
-}
-
-@media(max-width: 560px) {
-
 }
 </style>
