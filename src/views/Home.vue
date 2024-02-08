@@ -36,7 +36,7 @@
               <p>Atualmente sou um Desenvolvedor Frontend Júnior, tenho experiência com as tecnologias HTML, CSS,
                 Javascript e alguns frameworks como Bootstrap, Vue.js e React. Estou disposto a adquirir ainda mais
                 experiência e crescer na carreira como Desenvolvedor. </p>
-                <a href="src/assets/JoaoVitorFernandesdeSouza_DevFrontEndJunior.pdf" target="_blank" class="d-block mt-2 color-primary">Veja meu currículo</a>
+                <a href="./src/assets/JoaoVitorFernandesdeSouza_DevFrontEndJunior.pdf" target="_blank" class="d-block mt-2 color-primary">Veja meu currículo</a>
             </div>
           </div>
         </v-col>
