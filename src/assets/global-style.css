@@ -1,0 +1,29 @@
+:root {
+  --primary: #FFC400;
+
+  --yellow-darken: #FF8F00;
+
+  --font-family-default: Poppins, sans-serif;
+}
+
+html {
+  margin: 0 auto;
+}
+
+.main {
+  max-width: 1200px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+body {
+  font-family: var(--font-family-default) !important;
+}
+
+.color-primary {
+  color: var(--primary);
+}
